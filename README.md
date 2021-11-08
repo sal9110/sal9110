@@ -1,7 +1,7 @@
 ### Hi there my name is Salvo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-I love  building Wep app using React
+I love  building Web-app using React
 
 
 [![Salvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sal9110)](https://github.com/sal9110/github-readme-stats)
