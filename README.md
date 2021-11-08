@@ -4,7 +4,11 @@
 I love  building Web-app using React
 
 
-[![Salvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sal9110)](https://github.com/sal9110/github-readme-stats)
+[![Salvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sal9110&show_icons=true&theme=tokyonight)]
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sal9110&layout=compact)]
+
 
 <!--
 **sal9110/sal9110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
