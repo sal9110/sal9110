@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there my name is Salvo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+
+I love  building Mobile Application using React
+
+
+[![Salvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sal9110)](https://github.com/sal9110/github-readme-stats)
 
 <!--
 **sal9110/sal9110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
