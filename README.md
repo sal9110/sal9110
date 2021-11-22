@@ -1,9 +1,10 @@
-### Hi there my name is Salvo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there my name is Salvo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 👨🏻‍💻  &nbsp; I'm a Full-Stack Web Developer recently graduated @ [Wild Code School](https://www.wildcodeschool.com/en-GB)
 - 🥨 &nbsp; I'm based in Berlin
-- 🔭 &nbsp; I'm looking for a job opportunity in an stimulating evironement 
 - ❤️  &nbsp; I love building meaningfull Web-app with React
+- 🔭 &nbsp; I'm looking for a job opportunity in an stimulating evironement 
+
 
 
 ## 🤖 Technologies
